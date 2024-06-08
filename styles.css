@@ -34,17 +34,17 @@ body {
     margin-right: 20px;
 }
 
-.contact-info {
+.info {
     flex: 1;
 }
 
-.contact-info h2 {
+.info h2 {
     margin: 0 0 10px 0;
     font-family: 'Tahoma', sans-serif;
     color: #b96767;
 }
 
-.contact-info p {
+.info p {
     margin: 5px 0;
     color: #807777;
 }
